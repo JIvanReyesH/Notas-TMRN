@@ -1,0 +1,25 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Pr\IeC {\'o}logo}{5}% 
+\contentsline {chapter}{\numberline {1}\IeC {\textquestiondown }Que es la Inteligencia Artificial?}{9}% 
+\contentsline {section}{\numberline {1.1}Definiciones Hist\IeC {\'o}ricas}{9}% 
+\contentsline {subsection}{\numberline {1.1.1}Actuar Humanamente: El enfoque de la prueba de Turing}{9}% 
+\contentsline {subsection}{\numberline {1.1.2}Pensar Humanamente: El enfoque de modelado cognitivo}{10}% 
+\contentsline {subsection}{\numberline {1.1.3}Actuar Racionalmente: El enfoque del agente racional}{10}% 
+\contentsline {subsection}{\numberline {1.1.4}Pensar Racionalmente: El enfoque de las leyes del pensamiento}{11}% 
+\contentsline {section}{\numberline {1.2}\IeC {\textquestiondown }Que es el Machine Learning?}{12}% 
+\contentsline {subsection}{\numberline {1.2.1}Supervised Learning}{12}% 
+\contentsline {subsection}{\numberline {1.2.2}Unsupervised Learning}{13}% 
+\contentsline {subsection}{\numberline {1.2.3}Reinforcement Learning}{15}% 
+\contentsline {part}{I\hspace {1em}Clases}{17}% 
+\contentsline {chapter}{\numberline {2}Neuronas y Redes Neuronales}{19}% 
+\contentsline {chapter}{\numberline {3}Resultados de An\IeC {\'a}lisis Funcional}{23}% 
+\contentsline {section}{\numberline {3.1}Espacios de Banach y Espacios de Hilbert}{23}% 
+\contentsline {section}{\numberline {3.2} El Dual de las Funciones Continuas e Integrables}{28}% 
+\contentsline {chapter}{\numberline {4}Aproximaci\IeC {\'o}n por medio de Redes Neuronales}{31}% 
+\contentsline {section}{\numberline {4.1}Universalidad}{31}% 
+\contentsline {section}{\numberline {4.2}Redes Neuronales}{35}% 
+\contentsline {section}{\numberline {4.3}Operaciones B\IeC {\'a}sicas con Redes Neuronales }{36}% 
+\contentsline {section}{\numberline {4.4}Reaproximaci\IeC {\'o}n de Diccionarios}{41}% 
+\contentsline {section}{\numberline {4.5}Aproximaci\IeC {\'o}n de funciones suaves}{44}% 
+\contentsline {part}{II\hspace {1em}Ayudantias}{49}% 
+\contentsline {chapter}{\numberline {5}Regresi\IeC {\'o}n Lineal}{51}% 
